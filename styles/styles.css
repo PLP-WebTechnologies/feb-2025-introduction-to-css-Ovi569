@@ -1,0 +1,13 @@
+.title{
+    color:aqua;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+body{
+    background-image:url('wk3-2.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    background-position: center;
+}
